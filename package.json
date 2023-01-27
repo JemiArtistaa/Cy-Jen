@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "npx cypress run --headless --browser chrome --liveReload=false --watch=false"
+    "test": "npx cypress run --headed"
   },
   "keywords": [],
   "author": "",
