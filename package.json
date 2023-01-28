@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "npx cypress run --headed --browser chrome --config video=false --env allure=true"
+    "test": "npx cypress run --config video=false --env allure=true"
   },
   "keywords": [],
   "author": "",
