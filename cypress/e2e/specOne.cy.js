@@ -1,6 +1,6 @@
 describe('template spec', () => {
   it('passes', () => {
     cy.visit('https://example.cypress.io')
-    cy.log('asdasda')
+    expect(true).to.equals(true)
   })
 })
